@@ -5,8 +5,8 @@
   "github_username": "anandrajB",
   "description": "My personal portfolio hosted on GitHub Pages",
   "records": {
-    "CNAME": ["anandraj.github.io"],
-    "no_ns" : true
+    "CNAME": ["anandraj.github.io"]
   },
+  
   "proxied": true
 }
