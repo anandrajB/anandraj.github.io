@@ -7,5 +7,6 @@
   "records": {
     "CNAME": ["anandraj.github.io"]
   },
+  "no_ns" : true,
   "proxied": true
 }
