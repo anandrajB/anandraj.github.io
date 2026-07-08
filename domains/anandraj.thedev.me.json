@@ -5,7 +5,7 @@
   "github_username": "anandrajB",
   "description": "My personal portfolio hosted on GitHub Pages",
   "records": {
-    "CNAME": ["anandraj.github.io"]
+    "CNAME": ["anandrajb.vercel.app"]
   },
   
   "proxied": true
